@@ -33,14 +33,3 @@
 
 
 
-
-
-def countdown(number)
-  while number > 0 
-    puts "#{number} SECOND(S)!"
-    number -= 0 
-  end
-  if number == 0 
-    puts "HAPPY NEW YEAR!"
-  end
-end
